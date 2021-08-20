@@ -53,3 +53,4 @@ func launch_ball():
 	velocity = Vector2(force, 0)
 	velocity = velocity.rotated(rotation)	
 	
+
